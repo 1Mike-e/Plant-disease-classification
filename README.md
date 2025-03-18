@@ -1,2 +1,2 @@
-# Plant-disease-classification
-Cassava Plant disease detection and classification
+# FuzzySystemsFinalProject
+Fuzzy System Final Project Implementation - ECE552
